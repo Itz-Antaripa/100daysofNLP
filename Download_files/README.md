@@ -1,0 +1,1 @@
+Often we need to work with files having open URLs like PDFs, etc. and we need to download them first and then work with them in google colab. We can directly download the files to google drive and work with them.
